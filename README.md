@@ -16,7 +16,8 @@ TODO: explanation
 ## Instagram Follower Checker
 
 
-**Check this [repository][apoptu]**
+Check this [repository][apoptu]
+
 TODO: more explanation
 
 
