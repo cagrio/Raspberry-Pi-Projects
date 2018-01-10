@@ -4,13 +4,15 @@ If you have a Raspberry Pi and you installed RetroPie and you're enjoying some g
 
 ## Logging Projects
 
-**What is your modem up to?***
+**What is your modem up to?**
 
-    > **connection_check.sh :** checks the internet connection and gives output with current time in csv format.
+    > **connection_check.sh :**
+ checks the internet connection and gives output with current time in csv format.
 
-How is your Raspberry Pi doing?
+**How is your Raspberry Pi doing?**
 
-    > **measure_temperature.py :** checks the temperature of the cpu and gives output with current time in csv format.
+    > **measure_temperature.py :** 
+ checks the temperature of the cpu and gives output with current time in csv format.
 
 **Idea** If you would like to make your RaspberryPi to send you a email or better instant message check below.
 ## EMail and XMPP Configuration for RPi
