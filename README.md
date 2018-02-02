@@ -1,6 +1,6 @@
 # Raspberry-Pi-Projects
 
-If you have a Raspberry Pi and you installed RetroPie and you're enjoying some games from time to time, or installed Kodi or whatever, or you still dont know what do with that little machine. Then you might be interested following projects.
+Maybe you just bought a Raspberry Pi and quite don't know or decide what to do with it, or you installed RetroPie on it and enjoying some games from time to time, or installed Kodi or whatever. Then you might be interested in following projects. 
 
 ## Logging Projects
 
@@ -15,8 +15,12 @@ If you have a Raspberry Pi and you installed RetroPie and you're enjoying some g
  checks the temperature of the cpu and gives output with current time in csv format.
 
 **Idea** If you would like to make your RaspberryPi to send you a email or better instant message check below.
+
 ## EMail and XMPP Configuration for RPi
-TODO: explanation
+Communication between you and your Raspberry Pi for monitoring purposes can be done via e-mail or instant messaging like XMPP. Since creating xmpp account for RPi and you is quite easy and also free, I recommend XMPP rather than e-mail.
+
+
+TODO: more explanation
 
 ## Instagram Follower Checker
 
