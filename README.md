@@ -1,4 +1,4 @@
-# Raspberry-Pi-Projects
+# No Biggie Projects for Raspberry Pi
 
 Maybe you just bought a Raspberry Pi and quite don't know or decide what to do with it, or you installed RetroPie on it and enjoying some games from time to time, or installed Kodi or whatever. Then you might be interested in following projects. 
 
