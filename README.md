@@ -6,7 +6,7 @@ Table of Contents
 =================
 
 * [Logging Projects](#logging-projects)
-* [Email and XMPP Configuration for RPi](#Email-and-XMPP-Configuration-for-RPi)
+* [Email and XMPP Configuration for RPi](#email-and-xmpp-configuration-for-rpi)
 * [Instagram Follower Checker](#instagram-follower-checker)
 * [Control an Instagram Account](#control-an-instagram-account)
 * [Bluetooth Speaker](#bluetooth-speaker)
